@@ -1,0 +1,20 @@
+//==============================================
+// Name:           saddam faisal
+// Student Number: 118406198
+// Email:          sfaisal6@myseneca.ca
+// Section:        NII
+// Workshop:       5 (at-home)
+//==============================================
+I learned from this workshop the use of # define macro defintion ,and how it is make our programing flexible we can increase or decline from this point.
+I learned how I decleare structure which means that aset of  variables it could be  from one or different kind of data such as Int,double,and string.
+Every variable inside the structure called member such as ID,Age,and salary we access the member by dot operator.
+we can not assign inside the structure form ,we have to assign out of the structure frame.
+
+The main points that I learned from this workshop how assign and leverage the flags and invalid value of record for example: delet member case
+Also , I learn how we use it as   acondition to validate the output.for example the print out the table of employ Id ,age and salary.Then how to use the 
+index to refer the required object.
+
+In short,The efficient role of array of structure more useful than parallel arrays because we are not restricted with double arrays in limited size.
+Also , when we declare a sructure just we know where is it location on the memory, but without allocate any size of the memory,so that will make it more efficient
+in programming.In our code we declare the struct employee at home.cfile another place,but we can declare at header files the advantage of that we can make our code
+more organized when we work with big programming cod that make our code more understanding to the reader.

@@ -1,0 +1,27 @@
+//==============================================
+// Name:           saddam faisal
+// Student Number: 118406198
+// Email:          sfaisal6@myseneca.ca
+// Section:        NII
+// Workshop:       4 (at-home)
+//==============================================
+ I learned ftom this workshop how I can declare and initialize  arrays and parrallel arrays ,and why we use arrays and when?
+Also, I learned how we can do iteration to get data inside the arrays and the way of access any element by index
+ also how we use selections to exclude some data .
+
+The arrays have many of the advantages .Arrays manage a huge sets of data from the same type ,and it could be from any type 
+int,char,and double .There are different ways in use them .The main role of arrays   briefing our programming code and make 
+it more flexible and understanding.Second, parallel arrays are useful for manage double tasks ,for instance, if we want to
+ write programming code for make survey for student so we need to know about everystudent ID,and Name here we realize how 
+parrallel arrays will be efficient.one of the negative sides  of using arrays that arrays have fixed size, so
+ we could not increase the memory assigned.
+
+The iteration is very important and helpful to use with arrays to loop the data that we need them to support our programming code
+The best practise to initialize iteration variable to a value of zero because every array has begining point , so it is better to 
+be the  zero starting point ,and it is more logic to start from zero to prevent any possible errors and because we start count from 
+zero in array index.
+
+
+
+
+ 

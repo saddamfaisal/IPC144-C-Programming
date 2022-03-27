@@ -1,0 +1,15 @@
+Vehicle.cpp: In member function ‘virtual std::istream& sdds::Vehicle::read(std::istream&)’:
+Vehicle.cpp:187:28: warning: statement has no effect [-Wunused-value]
+    toupper(license_Plate[0]);
+                            ^
+Vehicle.cpp:227:28: warning: statement has no effect [-Wunused-value]
+    toupper(license_Plate[0]);
+                            ^
+Vehicle.cpp: In constructor ‘sdds::Vehicle::Vehicle(const char*, const char*, int)’:
+Vehicle.cpp:365:28: warning: statement has no effect [-Wunused-value]
+    toupper(license_Plate[0]);
+                            ^
+/tmp/ccpULAlN.o: In function `sdds::Parking::Parking(char const*, int)':
+Parking.cpp:(.text+0x20): undefined reference to `sdds::Menu::Menu()'
+Parking.cpp:(.text+0x30): undefined reference to `sdds::Menu::Menu()'
+collect2: error: ld returned 1 exit status

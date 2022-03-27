@@ -1,0 +1,52 @@
+
+
+
+
+//Name:           SADDAM FAISAL
+// Student Number: 118406198
+// Email:          sfaisal6@myseneca.ca
+// Date:           08/08/2020
+
+
+
+I lerned during do the mileestones many of programming concepts.First ,I learned
+
+the concept of inheritance which means that define class in another class that makes 
+
+easier to maintain yor code and to reuse the code functionality.The main  purpose 
+
+of inheritance is to create relationship between two classes in logical way.As we use
+
+this concept in milestone we inherit from the class vehicle .Then I learned the different
+
+types of inheritance when we inherit from public that means public inheritance that we 
+
+can deal with it as public ,but when we inherit private data member that means private 
+
+inheritance and we have to deal with it as private and when inherit from protected that 
+
+you have to deal with it as protected inheritance .Also, I learned the difference
+
+between abstract class and concreat class wich we deal with them in the milestones
+
+The abstract class is a method but doesnot have implementation which means that
+
+abstract class  can not be instantiated while the concrete class is a class have
+
+an implementation of the abstrcat classs interface.Second,I enhance my understanding
+
+to the oncept of polymorphism which means multiple use of the same function.In 
+
+the context of the polymorphism and heriacery of classes I learned the concept 
+
+of overloading which means use the same function name but different parameter
+
+and the concept of overriding it is similar to to overloading but we use virtual
+
+function in the derived class  and create instance of the derived class.In the 
+ 
+end,The most part I faced difficulity was at car.cpp in the read function after
+
+I print out the statement (carwash while paked?yes/no) here I find difficult 
+
+in reading input and validate to y || n .   

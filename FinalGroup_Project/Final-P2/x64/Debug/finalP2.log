@@ -1,0 +1,7 @@
+﻿  file_helper.c
+  main.c
+  menu.c
+C:\Users\USER\Desktop\Final-P2\Final-P2\menu.c(107,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Final-P2\Final-P2\menu.c(239,38): warning C4013: 'toupper' undefined; assuming extern returning int
+  Generating Code...
+  finalP2.vcxproj -> C:\Users\USER\Desktop\Final-P2\Final-P2\x64\Debug\finalP2.exe

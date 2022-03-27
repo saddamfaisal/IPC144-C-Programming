@@ -1,0 +1,24 @@
+#include <stdio.h>
+
+int main()
+{
+    float amount,bal1,bal2;
+    int loonies,quarters;
+    
+    printf("please enter the amount to be paid:$ ");
+    scanf ("%f",&amount);
+    loonies=amount/1;
+    printf("Loonies required: %d\n",loonies);
+    bal1=amount - loonies;
+    printf("balance owing $%.2f\n",bal1);
+    quarters= bal1/25*100;
+    printf("Q uarters required: %d\n",quarters);
+    bal2=bal1 - quarters * .25;
+    printf("balance owing $%.2f",bal2);
+    
+    
+    
+    
+
+    return 0;
+}

@@ -1,0 +1,33 @@
+//==============================================
+// Name:  saddam faisal
+// Student Number: 118406198
+// Email:          Sfaisal6@myseneca.ca
+// Section:        NII
+// Workshop:       2 (at-home)
+//==============================================
+   I learned from this workshop many of declaring data according to the giving requirements int and float data ,and I learned the input function by using printf
+
+ and output function by using scanf .Also , the most important part I learned  was the arthematic operators division,multiply,remainder, and adding .
+
+The difficult part was converting doubl to int till get the right output ,and how we can get rid of the zero by multiply by 100.The interesting part was 
+
+casting because it help us  to more understand of the computations.The best practise to convert floating to int to be able to use the remainder because we
+
+ can not use it wit floating numbers ,we use it just with integer.The best practise is to use moduel  operatotr instead of division and subtraction because 
+
+modue operator does divide and give us the remainder  is more efficient because it does two operation gather.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
